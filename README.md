@@ -1,4 +1,4 @@
-# ello — I'm Genious 👋✨
+# Hello — I'm Genious 👋✨
 
 I'm a creative software engineer who builds delightful, high-performance web applications and developer tools. I love turning fuzzy ideas into polished products, and I combine pragmatism with a designer's eye to craft code that humans enjoy using.
 
@@ -17,7 +17,7 @@ I'm a creative software engineer who builds delightful, high-performance web app
 
 📬 Contact
 - Email: youremail@example.com
-- GitHub: https://github.com/yourname
+- GitHub: [https://github.com/rand0451](https://github.com/rand0451)
 
 🤝 Open to
 Full-time roles, freelance, advisory, and open-source collaboration.  
