@@ -7,16 +7,12 @@ I'm a creative software engineer who builds delightful, high-performance web app
 - Frontend: React, Next.js, Redux, Tailwind CSS, CSS-in-JS
 - Databases: PostgreSQL, MySQL, MongoDB, Redis
 
-✨ Notable Projects
-- **Atlas** — Real-time analytics platform for product teams.  
-  Repo / Live: https://github.com/yourname/project-atlas
-
 💡 How I Work
 - Empathy-first design: ship accessible, inclusive experiences.
 - Strong emphasis on tests, observability, and clear documentation.
 
 📬 Contact
-- Email: youremail@example.com
+- Email: shyneotrix@protonmail.com
 - GitHub: [https://github.com/rand0451](https://github.com/rand0451)
 
 🤝 Open to
