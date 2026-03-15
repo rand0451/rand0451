@@ -2,19 +2,19 @@
 
 I'm a creative software engineer who builds delightful, high-performance web applications and developer tools. I love turning fuzzy ideas into polished products, and I combine pragmatism with a designer's eye to craft code that humans enjoy using.
 
-🧰 Skills & Technologies
+### 🧰 Skills & Technologies
 - Languages: JavaScript (ES6+), TypeScript, Python, Go
 - Frontend: React, Next.js, Redux, Tailwind CSS, CSS-in-JS
 - Databases: PostgreSQL, MySQL, MongoDB, Redis
 
-💡 How I Work
+### 💡 How I Work
 - Empathy-first design: ship accessible, inclusive experiences.
 - Strong emphasis on tests, observability, and clear documentation.
 
-📬 Contact
-- Email: shyneotrix@protonmail.com
+### 📬 Contact
+- Email: shishkin1037.a@gmail.com
 - GitHub: [https://github.com/rand0451](https://github.com/rand0451)
 
-🤝 Open to
+### 🤝 Open to
 Full-time roles, freelance, advisory, and open-source collaboration.  
 Reach out with a short note about the project and timeline — I reply fast.
